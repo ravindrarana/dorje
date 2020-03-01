@@ -1,11 +1,11 @@
 // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyDQEW0_j2wuZwcEMoxnrcB4nCX9Aalnnfw",
-    authDomain: "dhniot.firebaseapp.com",
-    databaseURL: "https://dhniot.firebaseio.com",
-    projectId: "dhniot",
-    storageBucket: "dhniot.appspot.com",
-    messagingSenderId: "961728067508"
+    apiKey: "******",
+    authDomain: "******",
+    databaseURL: "******",
+    projectId: "******",
+    storageBucket: "******",
+    messagingSenderId: "******"
   };
   firebase.initializeApp(config);
 
