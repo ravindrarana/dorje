@@ -23,7 +23,7 @@
 	<div class="container-fluid">
 		<!-- bedroom section -->
 		<div class="row">
-			<div class="col-md-4 dorje">
+			<div class="col-md-4 col-lg-4 col-sm-12 dorje">
 					<h1>BEDROOM</h1>
 					<div class="alert alert-primary" role="alert">
 						<h3 class="fanStatus"></h3>						
@@ -42,7 +42,7 @@
 				
 			</div>
 			<!-- kitchen -->
-			<div class="col-md-4 dorje">
+			<div class="col-md-4 col-lg-4 col-sm-12 dorje">
 				<h1>KITCHEN</h1>
 				<div class="alert alert-secondary">
 					<h3 class="fanStatus"></h3>
@@ -61,7 +61,7 @@
 
 			</div>
 			<!-- garage -->
-			<div class="col-md-4 dorje">
+			<div class="col-md-4 col-lg-4 col-sm-12 dorje">
 				<h1>GARAGE</h1>
 				<div class="alert alert-success">
 					<h3 class="fanStatus"></h3>
